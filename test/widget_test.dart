@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-
-import 'package:quizapp/main.dart';
+import 'package:quizapp/app.dart';
 
 void main() {
   testWidgets('reveals answers and navigates between cards', (
